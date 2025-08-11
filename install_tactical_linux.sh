@@ -5,7 +5,7 @@ mesh_url="https://mesh.faciniinformatica.com.br/meshagents"
 rmm_url="https://api.faciniinformatica.com.br"
 rmm_client_id="1"
 rmm_site_id="49"
-rmm_auth="e9902ecba15be0714cb95e1abeabf3bc721d49243aa5edbc7ca68e54b77f8a20"
+rmm_auth="67d801a9fe99870e32eb94b76a261833168b5aae582c04c870066605e20a62ea"
 rmm_agent_type="server"  # valor default, pode ser alterado na instalação
 
 function show_help() {
